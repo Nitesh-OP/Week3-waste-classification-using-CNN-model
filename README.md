@@ -27,4 +27,3 @@ A deep learning project developed during the **Edunet GreenTech & AI Internship*
 
 **Sample Visualization**:  
 ![Dataset Samples](https://via.placeholder.com/600x200?text=Organic+vs+Recyclable+Image+Grid)  
-*(Replace with actual EDA visualization from your notebook)*
